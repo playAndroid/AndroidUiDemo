@@ -7,4 +7,4 @@ The record and used as a learning, easy to use, to avoid repetitive write interf
 
 1,折叠布局
 
-<img src="ttp://img.blog.csdn.net/20170319154817428?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZGF0YV9obGs=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" height = "400" alt="折叠布局" align=center />
+![image](https://github.com/playAndroid/MyStudyAndroid/blob/master/image/floading.gif)
